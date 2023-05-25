@@ -1,0 +1,6 @@
+The RSA analysis code is based on the code of the Nili Toolbox
+Relevant code for running the main scupts: 
+noise_celing_perROI_expectedFaces.m
+and 
+noise_celing_perROI_presentedFaces.m
+was copied to this folder.
